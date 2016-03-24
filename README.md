@@ -8,6 +8,7 @@ The organisation provides security courses for those who want to work in the sec
 
 Requirements
 •	The system should be able to store jobs/events prospective clients will book for.
+
 •	The hour rate depends on the type of events and jobs. 
 •	The system should store the types of events the organisation can provide security for.
 •	All information have to be digitalized and securedlogin system
